@@ -16,6 +16,7 @@ Technical & Soft Skills:
  4. Incorporate Hyperlinks and Filters to make the dashboard interactive.
  5. Comparison of findings from my research of the Global Steel Market with the internal data analysis of SteelCo Ltd.
  6. Present the insights from both sources in a PowerPoint presentation along with key recommendations.
+
 Soft Skills:
  1. Refined understanding of Sales & Revenue.
  2. Designing user-centric reports with empathy in mind.
